@@ -1,0 +1,47 @@
+
+.flex-container  {
+    font-family: monospace;
+    background: papayawhip;
+    padding: 6px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+
+a {
+    font-size: 22px;
+    background: white;
+    padding: 16px;
+    
+    /* this removes the line under the links */
+    text-decoration: none;
+  }
+
+
+.centeredItems{
+
+    color: red;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 120px;
+    font-size: 64px;
+
+
+}
+
+
+ul {
+
+    list-style-type: none;
+    text-align: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    gap: 16px;
+
+
+
+}
