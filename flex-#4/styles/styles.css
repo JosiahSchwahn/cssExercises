@@ -1,0 +1,47 @@
+
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 1.8rem;
+
+}
+
+.items-wrapper{
+    margin: 32px;
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 30px;
+
+}
+
+
+.fruit-card{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text{
+    margin-top: 10px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+img{
+
+    max-width: 60%;
+
+
+}
